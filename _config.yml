@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "apb"  # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "apb cyber security"  # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -108,10 +108,10 @@ author:
   location         : "south africa"
   email            : 
   links:
-    - label: "Email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:blog@apbcybersec.co.za"
-    - label: "Website"
+    - label: "website"
       icon: "fas fa-fw fa-link"
       url: "https://apbcybersec.co.za"
     #- label: "Twitter"
@@ -120,7 +120,7 @@ author:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/apbcybersec"
     #- label: "Instagram"
@@ -136,7 +136,7 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/apbcybersec"
    # - label: "GitLab"
